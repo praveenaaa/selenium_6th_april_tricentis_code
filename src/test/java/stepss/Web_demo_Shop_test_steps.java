@@ -16,6 +16,8 @@ import cucumber.api.java.en.When;
 
 public class Web_demo_Shop_test_steps 
 {
+	
+	// this is the code written by 6th april batch
 	WebDriver driver;
 	Tricentis_pagefactory objdemo;
 	
